@@ -3,6 +3,9 @@
 
 
     <string name="hello_message"> Bonjour</string>
+    <string name = "login">identifier</string>
+    <string name = "password">mot de passe</string>
+    <string name= "WDTD">Qu\'est-ce que cela fait?</string>
 
 
 </resources>

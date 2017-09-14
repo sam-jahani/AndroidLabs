@@ -5,5 +5,9 @@
 
     <string name="hello_message"> Hello!</string>
     <string name = "ButtonText">I\'m a button</string>
+    <string name = "login"> Login</string>
+    <string name = "password">Password </string>
+    <string name= "WDTD"> What does this do?</string>
+
 
 </resources>
